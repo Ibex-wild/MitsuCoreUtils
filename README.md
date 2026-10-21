@@ -13,7 +13,7 @@ collection of Unix-like command-line utilities written in Zig 0.17.0.
 ## Before you contribute
 
 AI coding assistants must read the repository-wide instructions in the root
-[`AGENTS.md`](../AGENTS.md) before contributing. That file covers the Zig
+[`AGENTS.md`](docs/AGENTS.md) before contributing. That file covers the Zig
 version, build and licensing conventions, source-safety rules, and validation
 requirements. Human contributors should read it as well.
 
