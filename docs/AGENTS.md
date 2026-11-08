@@ -28,7 +28,7 @@ with, endorsed by, or part of the GNU Project.
 - New or modified Zig source files must begin with these two lines:
 
   ```zig
-  // Copyright (c) 2026 HiMitsu <himitsutha@protonmail.com>
+  // Copyright (c) 2026 Ibex-Wild <himitsutha@protonmail.com>
   // SPDX-License-Identifier: MIT
   ```
 
